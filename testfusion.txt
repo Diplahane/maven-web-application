@@ -1,7 +1,10 @@
-hello
+hell  1
+  o
 new
 bacth-039
 next 039
 new for 039
 updated
 using this file with piepline for 071
+
+now i am working on pipeline for 077 batch 
