@@ -10,3 +10,5 @@ using this file with piepline for 071
 now i am working on pipeline for 077 batch 
 
 now check 2 077
+
+today we are working with 074 batch
